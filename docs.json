@@ -44,12 +44,23 @@
     "decoration": "gradient"
   },
   "navigation": {
-    "groups": [
+    "pages": [
       {
         "group": "Getting Started",
         "pages": [
-          "index",
           "quickstart"
+        ]
+      },
+      "index",
+      {
+        "group": "additional-information",
+        "pages": [
+          "additional-information/chain-of-command",
+          "additional-information/faq",
+          "additional-information/glossary",
+          "additional-information/important-information",
+          "additional-information/staff-awards",
+          "additional-information/updates"
         ]
       }
     ]
