@@ -44,14 +44,14 @@
     "decoration": "gradient"
   },
   "navigation": {
-    "pages": [
+    "groups": [
       {
         "group": "Getting Started",
         "pages": [
+          "index",
           "quickstart"
         ]
       },
-      "index",
       {
         "group": "additional-information",
         "pages": [
@@ -64,5 +64,8 @@
         ]
       }
     ]
+  },
+  "thumbnails": {
+    "background": "https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7Ow7UE8lM9hpDlCI9YFI%2Fuploads%2FQm3yH0A7x319BnpY7Fk8%2FCopy_of_VIRGINIA_ROLEPLAY.png?alt=media&token=4c4324d2-8359-4868-a862-19891369bf79"
   }
 }
