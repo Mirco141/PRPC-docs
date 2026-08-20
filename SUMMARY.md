@@ -30,7 +30,7 @@
 * [Chain of Command](additional-information/chain-of-command.md)
 * [Staff Awards](additional-information/staff-awards.md)
 * [Important Information](additional-information/important-information.md)
-* [FAQ](additional-information/faq.md)
+* [Frequently Asked Questions](additional-information/faq.md)
 * [Glossary](additional-information/glossary.md)
 * [Update Logistics](additional-information/updates.md)
 

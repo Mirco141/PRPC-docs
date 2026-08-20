@@ -35,10 +35,18 @@ Update Logistic #0001 provides summative information of changes to the staff-gui
 * Renamed the Update Logistic Page from "Updates" to "Update Logistics", so it's more specific for members to recognize.
 * Rewritten the description, and simplified the understanding of the page purpose.
 
-### Safezones
+### Safezones Page
 
 * Rewritten all of the safezone locations with game naming.&#x20;
 * Gramatically fixed the word "independent" from what it previously was: "indipendent".
+
+### Chain of Command Page
+
+* A table has been added with all of the ranks of the staff-team and the in-game shift quota that is required for each rank.
+
+### Frequently Asked Questions Page
+
+* The page has been renamed from "FAQ" to Frequently Asked Questions, so that staff-members who aren't aware what the acronym means can directly understand the page purpose without exploring it.
 
 ***
 
