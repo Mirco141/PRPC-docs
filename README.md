@@ -38,13 +38,13 @@ layout:
 If it's your first time here, <mark style="color:yellow;">congratulations</mark>! If it isn't your first time, <mark style="color:yellow;">thank you</mark> for being a staff member in our Community!
 
 This Staff Guidelines have been created to help you correctly moderate in our community, to explain our server's procedures, and to find a solution to any doubts on your moderation experience.\
-Here you can find out key details about PRPC, such as punishments, roleplay guides, roleplay votes, chain of command and much more.&#x20;
+Here you can find out key details about PRPC, such as punishments, roleplay guides, roleplay votes, chain of command and much more.
 
 {% hint style="danger" %}
 All staff members must follow the rules and information provided in this guide, failure to do so will result in a termination from our Staff team.
 {% endhint %}
 
-The PRPC's Leadership Team and SHR Council, thank you for being a staff member with us, and wishes you the best experience among the staff team!
+The PRPC's Leadership Team and SHR Council, thank you for being a staff member with us, and wish you the best experience among the staff team!
 
 ***
 

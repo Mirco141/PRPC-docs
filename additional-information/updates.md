@@ -28,7 +28,7 @@ Update Logistic #0001 provides summative information of changes to the staff-gui
 
 * Updated a Grammatical Error at the beginning of the page.
   * Previous Sentence: "The PRPC's Leadership Team and SHR Council, thank you for being a staff member with us, and wishes you the best experience among the staff team!"
-  * Updated Sentence: "The PRPC's Leadership Team and SHR Council are pleased and thankful that you are a staff member with us, and wishes you the best experience among the staff team!"
+  * Updated Sentence: "The PRPC's Leadership Team and SHR Council are pleased and thankful that you are a staff member with us, and wish you the best experience among the staff team!"
 
 ### Update Logistic Page
 
