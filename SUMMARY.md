@@ -32,7 +32,7 @@
 * [Important Information](additional-information/important-information.md)
 * [FAQ](additional-information/faq.md)
 * [Glossary](additional-information/glossary.md)
-* [Updates](additional-information/updates.md)
+* [Update Logistics](additional-information/updates.md)
 
 ## Technical Guides
 

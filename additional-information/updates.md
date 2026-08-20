@@ -1,20 +1,67 @@
 ---
+description: >-
+  Update Logistics provide information of the changes made to the staff-guide. A
+  summary of the updates will be written, then all of the changes to specific
+  pages of the staff-guide.
 icon: pen-to-square
 ---
 
-# Updates
-
-Below you will find all updates made to this guide, and by who were they made.
-
-Come here once in a while to check if anything has been changed, so that you can stay up to day with the rules and procedures. Changes may also be announced on Discord.
-
-Thank you everyone for having read this guide, and for making PRPC a better place for everyone everyday! <i class="fa-heart" style="color:red;">:heart:</i>
+# Update Logistics
 
 ***
 
-## Changes
-
 {% updates format="full" %}
+{% update date="2026-08-20" %}
+## Staff Guide | Update Logistic #0001
+
+
+
+Dear Staff Team,
+
+Update Logistic #0001 provides summative information of changes to the staff-guide. In this logistic, only minor changes are recorded within this update.&#x20;
+
+**Notice:** Additionally, staff-guide updates will happen more frequently. Guide Editors are reviewing [「🗳️」staff-suggestions](https://discord.com/channels/735880148125220924/1394154119819825252) more closely.
+
+***
+
+### Welcome Page
+
+* Updated a Grammatical Error at the beginning of the page.
+  * Previous Sentence: "The PRPC's Leadership Team and SHR Council, thank you for being a staff member with us, and wishes you the best experience among the staff team!"
+  * Updated Sentence: "The PRPC's Leadership Team and SHR Council are pleased and thankful that you are a staff member with us, and wishes you the best experience among the staff team!"
+
+### Update Logistic Page
+
+* Renamed the Update Logistic Page from "Updates" to "Update Logistics", so it's more specific for members to recognize.
+* Rewritten the description, and simplified the understanding of the page purpose.
+
+### Safezones
+
+* Rewritten all of the safezone locations with game naming.&#x20;
+* Gramatically fixed the word "independent" from what it previously was: "indipendent".
+
+***
+
+Any Questions? Feel free to contact our Guide Editor Team!
+
+* mirco\_ross (Server Developer)
+* MASTER\_115123 (Junior Executive)
+* RealSilenter (Deputy Director)
+* patlu1239 (Assistant Director)
+* ezanaking12345 (Head of Management)
+* Mys1icX (Junior Management)
+* Robloxcoolguy8670 (Head of Supervision)
+* arealnamelol (Senior Supervision)
+
+***
+
+Your Sincerely,&#x20;
+
+Mys1icX
+
+Junior Management, Guide Editor
+{% endupdate %}
+
 {% update date="2026-01-01" %}
 ## Beta release
 

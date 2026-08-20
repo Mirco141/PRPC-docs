@@ -8,17 +8,19 @@ Safe Zones are areas of the map where players are not allowed to kill each other
 
 Safe Zones on our server are as follows:
 
-* Springfield and Riverside civilian spawn points&#x20;
-* Riverside Fire Department
-* Springfield Fire Department
-* Gun store
-* Springfield Vehicle Repair Shop
-* Riverside Vehicle Repair Shop
-* Riverside Police Department
-* DOT headquarters
-* Sheriff's Office
+* River City Civilian Spawn
+* Springfield Downtown Civilian Spawn
+* River City Police Department
+* Liberty County Sheriff's Office
+* Department of Transportation Building
+* River City Vehicle Repair Shop
+* Springfield Downtown Vehicle Repair Shop
+* River City Gun Store
+* Springfield Downtown Gun Store
+* River City Fire Department
+* Springfield Down Fire Department
 
-Or more generally, indipendent of any changes made to the above locations:
+Or more generally, independent of any changes made to the above locations:
 
 * Any civilian spawn
 * Any LEO spawn (DOT, FD, EMS, PD, Sheriff)
@@ -33,7 +35,7 @@ On the map:
 
 ***
 
-If someone is killed in a safezone, you can instantly heal them.&#x20;
+If someone is killed in a safezone, you can instantly heal them.
 
 If two players kill each other, you may decide to not punish anyone, or punish both.
 
