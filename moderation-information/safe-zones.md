@@ -18,7 +18,7 @@ Safe Zones on our server are as follows:
 * River City Gun Store
 * Springfield Downtown Gun Store
 * River City Fire Department
-* Springfield Down Fire Department
+* Springfield Downtown Fire Department
 
 Or more generally, independent of any changes made to the above locations:
 
@@ -35,8 +35,10 @@ On the map:
 
 ***
 
-If someone is killed in a safezone, you can instantly heal them.
+If someone is killed in a safe zone, you can instantly heal them.
 
 If two players kill each other, you may decide to not punish anyone, or punish both.
 
-If a player kills another one and then says "he started" explain that no one should even open fire in a safe zone, nor responding to fire. You can either decide to punish the killer or not.
+If a player kills another one and then says "he started" explain that no one should even open fire in a safe zone, nor respond to fire. You can either decide to punish the killer or not.
+
+To clarify, players are not allowed to run into SZs during chases or hunts to avoid being killed.
