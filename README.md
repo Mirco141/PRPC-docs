@@ -1,10 +1,11 @@
 ---
+noIndex: true
 icon: house
 cover: .gitbook/assets/mage (1) (1).jpg
 coverY: 0
 coverHeight: 552
 layout:
-  width: default
+  width: wide
   cover:
     visible: true
     size: full
