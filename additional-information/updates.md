@@ -11,8 +11,18 @@ icon: pen-to-square
 ***
 
 {% updates format="full" %}
+{% update date="2026-08-21" %}
+## Hotfix v1.1
+
+Updated [#welcome-page](updates.md#welcome-page "mention") to now show the navigation bar, so content can be accessed even faster by people who have already read the guide and want to reach a page fast. The background is also now dimmed for consisntency and UI conventions.\
+\
+Updated previous update log to look more professional.
+
+<p align="right"><strong>Authors:</strong> Mirco141</p>
+{% endupdate %}
+
 {% update date="2026-08-20" %}
-## Staff Guide | Update Logistic #0001
+## Stable v1.0
 
 
 
@@ -63,11 +73,7 @@ Any Questions? Feel free to contact our Guide Editor Team!
 
 ***
 
-Your Sincerely,&#x20;
-
-Mys1icX
-
-Junior Management, Guide Editor
+<p align="right"><strong>Authors:</strong> The PRPC Quality Assurance team</p>
 {% endupdate %}
 
 {% update date="2026-01-01" %}
