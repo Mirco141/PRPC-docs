@@ -43,7 +43,7 @@ Just because you're staff, it doesn't mean you can decide whenever you follow th
 
 {% hint style="info" %}
 Since we can't write everything about every single situation in this guide, you will learn how to use your personal judgment.\
-Judgement is the most important thing, and don’t expect to instantly know how to judge perfectly! It will take time. \
+Judgement is the most important thing, and don’t expect to instantly know how to judge perfectly! It will take time.\
 \
 If you’re unsure about something, ping or DM your superiors and ask them **nicely**. Use your judgement to decide what's best for a situation and look at all sides.
 {% endhint %}
@@ -64,28 +64,28 @@ If you’re unsure about something, ping or DM your superiors and ask them **nic
 
 * Only handle tasks within your role, don't go beyond your permissions
 * Use common sense, don't touch sensitive controls
-* &#x20;Represent PRPC Staff on other servers, respect their rules
+* Represent PRPC Staff on other servers, respect their rules
 * Staff must include their Roblox name in their Discord username (MGT+ can use related names instead)
-* Staff can't use custom nicknames as membership perk
-* Staff role colors must be unique, not white or black, and not match existing roles colours
-* Custom roles must not sound as official ranks
+* Staff can't use custom nicknames as a membership perk
+* Staff role colours must be unique, not white or black, and not match existing role colours
+* Custom roles must not sound like official ranks
 * Only IA+ may add time zones to nicknames
-* Follow the correct nickname in the Discord, Rank・User&#x20;
+* Follow the correct nickname in the Discord: Rank・User
 
 ***
 
 ## Discipline
 
-* Always act polite and set a good example;
+* Always act politely and set a good example;
 * Follow all staff rules at all times;
 * Do not swear, even if you’re allowed to;
-* Follow the Chain of Command at all times, ask higher ups when help is required but go to the appropriate rank (don't directly go to Vice-Chairmen if an HR can help you);
+* Follow the Chain of Command at all times, ask higher-ups for help if required, but go to the appropriate rank (don't directly go to Vice-Chairmen if an HR can help you);
 
 ***
 
 ## Uniforms
 
-* Wear the uniform of your rank (SHR+ Can bypass this)
+* Wear the uniform of your rank (SHR+ can bypass this)
 * Only wear the official uniform, no edited or custom ones;
 * Wear the uniform ONLY on duty, not off-duty;
 * Keep your avatar realistic, no silly avatars or unprofessional ones;
@@ -96,7 +96,7 @@ If you’re unsure about something, ping or DM your superiors and ask them **nic
 ## Promotions
 
 * Don't ask or hint for promotions;
-* Being active helps, but good behavior and professionalism matter more, as well as following these principles;
+* Being active helps, but good behaviour and professionalism matter more, as well as following these principles;
 * Never target someone because they got a rank you wanted, be patient and wait your turn. (It usually only ends in you getting punished!)
 
 <details>
@@ -122,8 +122,8 @@ These represents the number of days that a certain staff member of a certain ran
 {% hint style="info" %}
 <mark style="color:$danger;">**Retirements:**</mark>
 
-When wanting to retire, you can request a retirement via support tickets. \
-However, only TA+ gets Former Staff / Staff chat access, and only former high ranks and above maintain their message history. \
+When wanting to retire, you can request a retirement via support tickets.\
+However, only TA+ gets Former Staff / Staff chat access, and only former high ranks and above maintain their message history.\
 \
 Please note, after retiring. Causing drama, leaking or arguing in staff chat will result in a removal from the channel.
 {% endhint %}
@@ -131,5 +131,5 @@ Please note, after retiring. Causing drama, leaking or arguing in staff chat wil
 ***
 
 {% hint style="success" %}
-Following all of this principles of the Staff Policy will ensure you a nice career and will make you get promoted faster!
+Following all of these principles of the Staff Policy will ensure you have a nice career and will make you get promoted faster!
 {% endhint %}

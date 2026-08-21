@@ -17,7 +17,7 @@ If you talk (chat) while being On-Duty, the following punishments will apply:
 | Verbal Warning         | Warning               | Strike                |
 
 If you wish to talk (chat) while being On-Duty, please take a break from your shift and go On-Break.\
-While On-Break, you are free to chat again, but do not abuse this by going continuously On and Off break, because this breaks our rules for "Using loopholes".&#x20;
+While On-Break, you are free to chat again, but do not abuse this by going continuously On and Off break, because this breaks our rules for "Using loopholes".
 
 {% hint style="info" %}
 There is no threshold or reference to understand that you are "abusing" going On and Off break to talk. Punishments are handed out by our IA+ staff members, who have the right to decide if you are, or aren't, abusing the On-Break function.
@@ -36,7 +36,7 @@ This is why, we ask you to moderate any Roleplay against the Roblox Platform's T
 
 ## Your staff car
 
-Vehicles with the staff livery are all on the Sheriff's Team. You can take any vehicle that has the livery corresponding to your rank.&#x20;
+Vehicles with the staff livery are all on the Sheriff's Team. You can take any vehicle that has the livery corresponding to your rank.
 
 <details>
 
@@ -44,7 +44,7 @@ Vehicles with the staff livery are all on the Sheriff's Team. You can take any v
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>The LR &#x26; MR livery in black tones</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>The LR &#x26; MR Livery in white tones</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>The LR &#x26; MR Livery in white tones</p></figcaption></figure>
 
 </details>
 
@@ -82,13 +82,13 @@ If you would like to have a livery on a different vehicle, you may send a staff-
 
 ### Staff Car Rules
 
-When encountering a mod call while patrolling, instead of instantly jumping out of your car, please correctly park it on the side of the road, or in a parking lot before going to the call. \
+When encountering a mod call while patrolling, instead of instantly jumping out of your car, please correctly park it on the side of the road, or in a parking lot before going to the call.\
 \
-This is so your car doesn't disrupt any on-coming traffic or roleplays, and to give our server a more professional look. Not doing so might result in an harsh punishment.
+This is so your car doesn't disrupt any on-coming traffic or roleplays, and to give our server a more professional look. Not doing so might result in a harsh punishment.
 
 ### Driving Rules
 
-As per server rules, you must not GTA drive on duty, and you must follow all street rules while driving. Not doing so on duty, will result in staff punishments, other than a normal punishment.
+As per server rules, you must not GTA drive on duty, and you must follow all street rules while driving. Not doing so on duty will result in staff punishments, other than a normal punishment.
 
 You can and may use your sirens to pull over players, to let players know that you are in an emergency and they need to make way for you, or such.
 
@@ -96,7 +96,7 @@ You can and may use your sirens to pull over players, to let players know that y
 
 ## Callsigns
 
-You may choose whatever callsign you prefer, (we don't have strict rules about that!) but <mark style="color:$warning;">you must not impersonate a Department/PMC/Mafia as well as not using an undercover car plate!</mark>
+You may choose whatever callsign you prefer, (we don't have strict rules about that!), but <mark style="color:$warning;">you must not impersonate a Department/PMC/Mafia as well as not using an undercover car plate!</mark>
 
 ***
 
@@ -105,11 +105,11 @@ You may choose whatever callsign you prefer, (we don't have strict rules about t
 When answering a mod call, or confronting a player, you should **always** present your greetings.\
 You can prepare a copy-and-paste message ready to send whenever you are in one of these situations.
 
-You must keep your message as most professional as you can, with perfect SPaG, and emoji kept to a minimum.
+You must keep your message as professional as you can, with perfect SPaG, and emojis kept to a minimum.
 
-Below it's an example that you could use:
+Below is an example that you could use:
 
-<pre data-overflow="wrap"><code><strong>Greetings! I’m [your name], a [your rank] at PRPC. How may I assist you? If I am late or no longer required please say “void“.
+<pre data-overflow="wrap"><code><strong>Greetings! I’m [your name], a [your rank] at PRPC. How may I assist you? If I am late or no longer required, please say “void“.
 </strong></code></pre>
 
 {% hint style="success" %}
@@ -117,4 +117,3 @@ Make sure that this message isn't tagged by Roblox chat!
 {% endhint %}
 
 ***
-
