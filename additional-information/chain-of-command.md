@@ -8,34 +8,5 @@ icon: arrow-up-z-a
 
 # Chain of Command
 
-| Role                        | In-Game Quota | Rank-Cap |
-| --------------------------- | ------------- | -------- |
-| Chairman                    | 0 Hours       | 3        |
-| Vice Chairman               | 0 Hours       | 2        |
-| Head Executive              | 5 Hours       | 1        |
-| Senior Executive            | 5 Hours       | 1        |
-| Junior Executive            | 5 Hours       | 1        |
-| Director                    | 6 Hours       | 1        |
-| Deputy Director             | 6 Hours       | 1        |
-| Assistant Director          | 6 Hours       | 1        |
-| Directive Intern            | 6 Hours       | 2        |
-| Head of Management          | 3 Hours       | 1        |
-| Senior Management           | 3 Hours       | 2        |
-| Junior Management           | 3 Hours       | 3        |
-| Head of Supervision         | 3 Hours       | 2        |
-| Senior Supervisor           | 3 Hours       | 3        |
-| Junior Supervisor           | 3 Hours       | 3        |
-| Intern Supervisor           | 3 Hours       | 4        |
-| Internal Affairs Supervisor | 3 Hours       | 2        |
-| Senior Internal Affairs     | 3 Hours       | 5        |
-| Junior Internal Affairs     | 3 Hours       | 5        |
-| Trial Internal Affairs      | 3 Hours       | 6        |
-| Head of Administration      | 2 Hours       | N/A      |
-| Senior Administrator        | 2 Hours       | N/A      |
-| Junior Administrator        | 2 Hours       | N/A      |
-| Trial Administrator         | 2 Hours       | N/A      |
-| Head of Moderation          | 2 Hours       | N/A      |
-| Senior Moderator            | 2 Hours       | N/A      |
-| Junior Moderator            | 2 Hours       | N/A      |
-| Trial Moderator             | 2 Hours       | N/A      |
+<table><thead><tr><th width="198">Role</th><th>In-Game Quota</th><th>Rank-Cap</th></tr></thead><tbody><tr><td>Leadership [LS]</td><td>Leadership [LS]</td><td>Leadership [LS]</td></tr><tr><td>Chairman</td><td>0 Hours</td><td>3</td></tr><tr><td>Vice Chairman</td><td>0 Hours</td><td>2</td></tr><tr><td>Executive [SHR]</td><td>Executive [SHR]</td><td>Executive [SHR]</td></tr><tr><td>Head Executive</td><td>5 Hours</td><td>1</td></tr><tr><td>Senior Executive</td><td>5 Hours</td><td>1</td></tr><tr><td>Junior Executive</td><td>5 Hours</td><td>1</td></tr><tr><td>Directive [SHR]</td><td>Directive [SHR]</td><td>Directive [SHR]</td></tr><tr><td>Director</td><td>6 Hours</td><td>1</td></tr><tr><td>Deputy Director</td><td>6 Hours</td><td>1</td></tr><tr><td>Assistant Director</td><td>6 Hours</td><td>1</td></tr><tr><td>Directive Intern</td><td>6 Hours</td><td>2</td></tr><tr><td>Management [HR]</td><td>Management [HR]</td><td>Management [HR]</td></tr><tr><td>Head of Management</td><td>3 Hours</td><td>1</td></tr><tr><td>Senior Management</td><td>3 Hours</td><td>2</td></tr><tr><td>Junior Management</td><td>3 Hours</td><td>3</td></tr><tr><td>Supervisory [HR]</td><td>Supervisory [HR]</td><td>Supervisory [HR]</td></tr><tr><td>Head of Supervision</td><td>3 Hours</td><td>2</td></tr><tr><td>Senior Supervisor</td><td>3 Hours</td><td>3</td></tr><tr><td>Junior Supervisor</td><td>3 Hours</td><td>3</td></tr><tr><td>Intern Supervisor</td><td>3 Hours</td><td>4</td></tr><tr><td>Internal Affairs [MR]</td><td>Internal Affairs [MR]</td><td>Internal Affairs [MR]</td></tr><tr><td>Internal Affairs Supervisor</td><td>3 Hours</td><td>2</td></tr><tr><td>Senior Internal Affairs</td><td>3 Hours</td><td>5</td></tr><tr><td>Junior Internal Affairs</td><td>3 Hours</td><td>5</td></tr><tr><td>Trial Internal Affairs</td><td>3 Hours</td><td>5</td></tr><tr><td>Administration [LR]</td><td>Administration [LR]</td><td>Administration [LR]</td></tr><tr><td>Head of Administration</td><td>2 Hours</td><td>N/A</td></tr><tr><td>Senior Administrator</td><td>2 Hours</td><td>N/A</td></tr><tr><td>Junior Administrator</td><td>2 Hours</td><td>N/A</td></tr><tr><td>Trial Administrator</td><td>2 Hours</td><td>N/A</td></tr><tr><td>Moderation [LR]</td><td>Moderation [LR]</td><td>Moderation [LR]</td></tr><tr><td>Head of Moderation</td><td>2 Hours</td><td>N/A</td></tr><tr><td>Senior Moderator</td><td>2 Hours</td><td>N/A</td></tr><tr><td>Junior Moderator</td><td>2 Hours</td><td>N/A</td></tr><tr><td>Trial Moderator</td><td>2 Hours</td><td>N/A</td></tr></tbody></table>
 
