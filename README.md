@@ -8,13 +8,13 @@ layout:
   cover:
     visible: true
     size: full
-    mask: none
+    mask: radial
   title:
     visible: false
   description:
     visible: false
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: false
   pagination:
