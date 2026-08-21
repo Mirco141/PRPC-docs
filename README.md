@@ -1,7 +1,7 @@
 ---
 icon: house
-cover: .gitbook/assets/mage (1).jpg
-coverY: 0.488888888888878
+cover: .gitbook/assets/mage (1) (1).jpg
+coverY: 0
 coverHeight: 552
 layout:
   width: default
