@@ -1,7 +1,7 @@
 ---
 icon: house
-cover: .gitbook/assets/Copy_of_VIRGINIA_ROLEPLAY.png
-coverY: 0
+cover: .gitbook/assets/mage (1).jpg
+coverY: 0.488888888888878
 coverHeight: 552
 layout:
   width: default
