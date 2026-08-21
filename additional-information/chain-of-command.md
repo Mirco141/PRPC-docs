@@ -8,34 +8,34 @@ icon: arrow-up-z-a
 
 # Chain of Command
 
-| Role                        | In-Game Quota |
-| --------------------------- | ------------- |
-| Chairman                    | 0 Hours       |
-| Vice Chairman               | 0 Hours       |
-| Head Executive              | 5 Hours       |
-| Senior Executive            | 5 Hours       |
-| Junior Executive            | 5 Hours       |
-| Director                    | 6 Hours       |
-| Deputy Director             | 6 Hours       |
-| Assistant Director          | 6 Hours       |
-| Directive Intern            | 6 Hours       |
-| Head of Management          | 3 Hours       |
-| Senior Management           | 3 Hours       |
-| Junior Management           | 3 Hours       |
-| Head of Supervision         | 3 Hours       |
-| Senior Supervisor           | 3 Hours       |
-| Junior Supervisor           | 3 Hours       |
-| Intern Supervisor           | 3 Hours       |
-| Internal Affairs Supervisor | 3 Hours       |
-| Senior Internal Affairs     | 3 Hours       |
-| Junior Internal Affairs     | 3 Hours       |
-| Trial Internal Affairs      | 3 Hours       |
-| Head of Administration      | 2 Hours       |
-| Senior Administrator        | 2 Hours       |
-| Junior Administrator        | 2 Hours       |
-| Trial Administrator         | 2 Hours       |
-| Head of Moderation          | 2 Hours       |
-| Senior Moderator            | 2 Hours       |
-| Junior Moderator            | 2 Hours       |
-| Trial Moderator             | 2 Hours       |
+| Role                        | In-Game Quota | Rank-Cap |
+| --------------------------- | ------------- | -------- |
+| Chairman                    | 0 Hours       | 3        |
+| Vice Chairman               | 0 Hours       | 2        |
+| Head Executive              | 5 Hours       | 1        |
+| Senior Executive            | 5 Hours       | 1        |
+| Junior Executive            | 5 Hours       | 1        |
+| Director                    | 6 Hours       | 1        |
+| Deputy Director             | 6 Hours       | 1        |
+| Assistant Director          | 6 Hours       | 1        |
+| Directive Intern            | 6 Hours       | 2        |
+| Head of Management          | 3 Hours       | 1        |
+| Senior Management           | 3 Hours       | 2        |
+| Junior Management           | 3 Hours       | 3        |
+| Head of Supervision         | 3 Hours       | 2        |
+| Senior Supervisor           | 3 Hours       | 3        |
+| Junior Supervisor           | 3 Hours       | 3        |
+| Intern Supervisor           | 3 Hours       | 4        |
+| Internal Affairs Supervisor | 3 Hours       | 2        |
+| Senior Internal Affairs     | 3 Hours       | 5        |
+| Junior Internal Affairs     | 3 Hours       | 5        |
+| Trial Internal Affairs      | 3 Hours       | 6        |
+| Head of Administration      | 2 Hours       | N/A      |
+| Senior Administrator        | 2 Hours       | N/A      |
+| Junior Administrator        | 2 Hours       | N/A      |
+| Trial Administrator         | 2 Hours       | N/A      |
+| Head of Moderation          | 2 Hours       | N/A      |
+| Senior Moderator            | 2 Hours       | N/A      |
+| Junior Moderator            | 2 Hours       | N/A      |
+| Trial Moderator             | 2 Hours       | N/A      |
 
