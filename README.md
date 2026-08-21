@@ -1,5 +1,4 @@
 ---
-noIndex: true
 icon: house
 cover: .gitbook/assets/mage (1) (1).jpg
 coverY: 0
