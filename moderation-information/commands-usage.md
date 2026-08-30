@@ -59,6 +59,22 @@ You can get a player's Roblox ID in plenty of ways, see [this guide](../technica
 
 ***
 
+## Peacetimer Policy
+
+In light of recent regulations announced within "staff-shouts", all staff-members are required to abide by the Peacetimer Policy.&#x20;
+
+* In an effort to enhance the roleplay experience, the Senior High Rank Team has introduced a strict usage on how the peacetimer is utilized. Please read below for more information.
+* You may put the peacetimer for these reasons:&#x20;
+  * Mass RDM
+  * President dying
+  * Event (SHR+)
+* The maximum peacetimer length that you may put is **500 seconds**. You are not permitted to put a peacetimer for longer than that, otherwise you may receive a staff-punishment. Remain cautious!
+* If there are side-based roleplays occuring, please use priority timer instead as a substitute. Load/Jail any civilians who continue to shoot. Non-combative players or players without weapons are exempt from this, and may continue their roleplays as needed!
+
+
+
+***
+
 ## All/Others Commands
 
 {% hint style="success" %}
