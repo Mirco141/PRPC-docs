@@ -19,6 +19,7 @@ Safe Zones on our server are as follows:
 * Springfield Downtown Gun Store
 * River City Fire Department
 * Springfield Downtown Fire Department
+* River City Courthouse
 
 Or more generally, independent of any changes made to the above locations:
 
